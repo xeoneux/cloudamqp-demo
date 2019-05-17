@@ -1,0 +1,19 @@
+{
+  "name": "cloudamqpdemo",
+  "version": "1.0.0",
+  "description": "a working example using cloudamqp for message exchange ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudamqp",
+    "rabbitmq"
+  ],
+  "author": "bipin chandra tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "node-cron": "^2.0.3"
+  }
+}
