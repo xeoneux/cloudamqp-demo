@@ -1,6 +1,6 @@
 # CloudAMQP demo
 
-CloudAMQP provides RebbitMQ services on cloud with Max 10 000 queued messages. This demo application consists of producer which push data to rabbitmq queue and a consumer which checks for any new items in queue and process them.
+CloudAMQP provides RabbitMQ services on cloud with Max 10 000 queued messages. This demo application consists of producer which push data to rabbitmq queue and a consumer which checks for any new items in queue and process them.
 
 ## Steps
 
